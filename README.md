@@ -23,11 +23,11 @@ This Solidity program defines **DegenToken**, a custom ERC20 token developed usi
 
 ### **Steps to Execute**
 1. **Download the Smart Contract**  
-   Download the `DegenToken.sol` file from this repository.
+   Download the `DegenGamingToken.sol` file from this repository.
 
 2. **Open the Contract in Remix**  
    - Navigate to [Remix](https://remix.ethereum.org/).
-   - Import the `DegenToken.sol` file using "Open a File from your File System."
+   - Import the `DegenGamingToken.sol` file using "Open a File from your File System."
 
 3. **Compile the Contract**  
    - Go to the **Solidity Compiler** tab.
