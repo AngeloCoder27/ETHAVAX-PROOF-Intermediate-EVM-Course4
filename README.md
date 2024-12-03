@@ -33,7 +33,7 @@ This Solidity program defines **DegenToken**, a custom ERC20 token developed usi
    - Go to the **Solidity Compiler** tab.
    - Set the compiler version to **0.8.26**.
    - Ensure the EVM version is set to **Shanghai**.
-   - Click **Compile DegenToken.sol**.
+   - Click **Compile DegenGamingToken.sol**.
 
 4. **Deploy the Contract**  
    - Switch to the **Deploy & Run Transactions** tab.
